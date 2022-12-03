@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "fabricExists",
+        "transactionLabel": "A test fabricExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createFabric",
+        "transactionLabel": "A test createFabric transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readFabric",
+        "transactionLabel": "A test readFabric transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateFabric",
+        "transactionLabel": "A test updateFabric transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteFabric",
+        "transactionLabel": "A test deleteFabric transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
